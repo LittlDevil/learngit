@@ -1,2 +1,1 @@
-git is a fool
-git is a bool
+git is a ture
